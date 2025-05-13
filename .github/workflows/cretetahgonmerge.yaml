@@ -1,4 +1,5 @@
 name: Python CI
+runname: basic checkout
 
 on:
   push:
